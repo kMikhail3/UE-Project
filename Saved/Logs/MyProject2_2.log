@@ -1,0 +1,1335 @@
+﻿Log file open, 05/15/22 22:15:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=23612)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject2
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-19764885"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.1-19764885+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "../../../../../UE Project/MyProject2/MyProject2.uproject" -EpicPortal -epicusername=kinkim -epicuserid=6fdfca5f11ff4f859339baf6fc3fd2ef -epiclocale=en -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (Release 1909) "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 1800X Eight-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="fcb2c27942c9bf81d6b466910526d4a7"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.312744
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-7288FFFC45D42282BD16B3B692C683F6
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin MultiUserTakes
+LogPluginManager: Mounting Engine plugin Takes
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ConcertMain
+LogPluginManager: Mounting Engine plugin MultiUserClient
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin SQLiteCore
+LogPluginManager: Mounting Engine plugin ConcertSyncCore
+LogPluginManager: Mounting Engine plugin ConcertSyncClient
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/MultiUserTakes/Content/' mounted to '/MultiUserTakes/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content/' mounted to '/ConcertSyncClient/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-19764885
+LogInit: Engine Version: 5.0.1-19764885+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 7 1800X Eight-Core Processor         , GPU: NVIDIA GeForce GTX 1070 Ti
+LogInit: Compiled (64-bit): Apr 15 2022 04:06:52
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername=kinkim -epicuserid=6fdfca5f11ff4f859339baf6fc3fd2ef -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: F:/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.05.16-02.15.46:931][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.05.16-02.15.46:931][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.05.16-02.15.46:931][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.05.16-02.15.46:932][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.05.16-02.15.46:932][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.05.16-02.15.46:932][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.05.16-02.15.46:932][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.05.16-02.15.46:932][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.05.16-02.15.46:932][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.05.16-02.15.46:932][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.05.16-02.15.46:932][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.05.16-02.15.46:932][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.05.16-02.15.46:932][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.05.16-02.15.46:932][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.05.16-02.15.46:934][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.05.16-02.15.46:934][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.05.16-02.15.46:934][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.05.16-02.15.46:934][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.05.16-02.15.46:934][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.05.16-02.15.46:934][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.05.16-02.15.46:934][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.05.16-02.15.46:934][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.05.16-02.15.46:934][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.05.16-02.15.46:934][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.05.16-02.15.46:934][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.05.16-02.15.46:948][  0]LogD3D12RHI: Aftermath initialized
+[2022.05.16-02.15.46:948][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.05.16-02.15.47:092][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1070 Ti (Max supported Feature Level 12_1, shader model 6.4)
+[2022.05.16-02.15.47:092][  0]LogD3D12RHI: Adapter has 8079MB of dedicated video memory, 0MB of dedicated system memory, and 16359MB of shared system memory, 1 output[s]
+[2022.05.16-02.15.47:111][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.05.16-02.15.47:111][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16359MB of shared system memory, 0 output[s]
+[2022.05.16-02.15.47:111][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.05.16-02.15.47:111][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.05.16-02.15.47:111][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.05.16-02.15.47:111][  0]LogHAL: Display: Platform has ~ 32 GB [34308018176 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.16-02.15.47:111][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.05.16-02.15.47:111][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.05.16-02.15.47:112][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.05.16-02.15.47:112][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.05.16-02.15.47:112][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/UE Project/MyProject2/Saved/Config/WindowsEditor/Editor.ini]
+[2022.05.16-02.15.47:112][  0]LogInit: Computer: DESKTOP-STR2KKF
+[2022.05.16-02.15.47:112][  0]LogInit: User: Mike
+[2022.05.16-02.15.47:112][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.05.16-02.15.47:112][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.05.16-02.15.47:112][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2022.05.16-02.15.47:112][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.05.16-02.15.47:112][  0]LogMemory: Process Physical Memory: 272.70 MB used, 289.61 MB peak
+[2022.05.16-02.15.47:112][  0]LogMemory: Process Virtual Memory: 244.97 MB used, 262.34 MB peak
+[2022.05.16-02.15.47:112][  0]LogMemory: Physical Memory: 15470.67 MB used,  17248.00 MB free, 32718.68 MB total
+[2022.05.16-02.15.47:112][  0]LogMemory: Virtual Memory: 25223.15 MB used,  12359.52 MB free, 37582.68 MB total
+[2022.05.16-02.15.47:112][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.05.16-02.15.47:119][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.05.16-02.15.47:137][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.05.16-02.15.47:138][  0]LogInit: Using OS detected language (en-US).
+[2022.05.16-02.15.47:138][  0]LogInit: Using OS detected locale (en-CA).
+[2022.05.16-02.15.47:141][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.05.16-02.15.47:333][  0]LogInit: Setting process to per monitor DPI aware
+[2022.05.16-02.15.47:396][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.05.16-02.15.47:396][  0]LogWindowsTextInputMethodSystem:   - English (Canada) - (Keyboard).
+[2022.05.16-02.15.47:396][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.05.16-02.15.47:396][  0]LogWindowsTextInputMethodSystem:   - Japanese (Japan) - Microsoft IME (TSF IME).
+[2022.05.16-02.15.47:396][  0]LogWindowsTextInputMethodSystem:   - English (Canada) - Touch Input Correction (TSF IME).
+[2022.05.16-02.15.47:396][  0]LogWindowsTextInputMethodSystem: Activated input method: Japanese (Japan) - Microsoft IME (TSF IME).
+[2022.05.16-02.15.47:414][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.16-02.15.47:414][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.16-02.15.47:539][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.05.16-02.15.47:546][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.05.16-02.15.47:546][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.05.16-02.15.47:640][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.05.16-02.15.47:640][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.05.16-02.15.47:641][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.05.16-02.15.47:641][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.05.16-02.15.47:641][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.05.16-02.15.47:641][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.05.16-02.15.47:641][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.05.16-02.15.47:641][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.05.16-02.15.47:641][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.05.16-02.15.47:641][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is not supported
+[2022.05.16-02.15.47:723][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.05.16-02.15.47:733][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.05.16-02.15.47:751][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.05.16-02.15.48:047][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.05.16-02.15.48:047][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.05.16-02.15.48:083][  0]LogD3D12RHI: Warning: Ray tracing is disabled for NVIDIA cards with the Pascal architecture.
+[2022.05.16-02.15.48:083][  0]LogD3D12RHI:     GPU DeviceId: 0x1b82 (for the marketing name, search the web for "GPU Device Id")
+[2022.05.16-02.15.48:083][  0]LogWindows: EnumDisplayDevices:
+[2022.05.16-02.15.48:083][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070 Ti' (P:1 D:1)
+[2022.05.16-02.15.48:083][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2022.05.16-02.15.48:084][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2022.05.16-02.15.48:084][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2022.05.16-02.15.48:084][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.05.16-02.15.48:085][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1070 Ti
+[2022.05.16-02.15.48:085][  0]LogD3D12RHI:   Driver Version: 460.79 (internal:27.21.14.6079, unified:460.79)
+[2022.05.16-02.15.48:085][  0]LogD3D12RHI:      Driver Date: 12-3-2020
+[2022.05.16-02.15.48:085][  0]LogRHI: Texture pool is 4326 MB (70% of 6180 MB)
+[2022.05.16-02.15.48:085][  0]LogD3D12RHI: Async texture creation enabled
+[2022.05.16-02.15.48:085][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.05.16-02.15.48:101][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.05.16-02.15.49:628][  0]LogWindowsTextInputMethodSystem: Activated input method: Japanese (Japan) - Microsoft IME (TSF IME).
+[2022.05.16-02.15.49:629][  0]Message dialog closed, result: Ok, title: WARNING: Known issues with graphics driver, text: The installed version of the NVIDIA graphics driver has known issues.
+Please install either the latest or the recommended driver version.
+
+https://www.nvidia.com/en-us/geforce/drivers/
+
+NVIDIA GeForce GTX 1070 Ti
+Installed: 460.79
+Recommended: 511.79
+[2022.05.16-02.15.49:636][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="F:/UE Project/MyProject2/MyProject2.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="F:/UE Project/MyProject2/Intermediate/TurnkeyReport_0.log" -log="F:/UE Project/MyProject2/Intermediate/TurnkeyLog_0.log" -project="F:/UE Project/MyProject2/MyProject2.uproject"  -platform=all'
+[2022.05.16-02.15.49:636][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""F:/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="F:/UE Project/MyProject2/MyProject2.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="F:/UE Project/MyProject2/Intermediate/TurnkeyReport_0.log" -log="F:/UE Project/MyProject2/Intermediate/TurnkeyLog_0.log" -project="F:/UE Project/MyProject2/MyProject2.uproject"  -platform=all" ]
+[2022.05.16-02.15.49:659][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.05.16-02.15.49:667][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.05.16-02.15.49:667][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.05.16-02.15.49:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.05.16-02.15.49:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.05.16-02.15.49:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.05.16-02.15.49:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.05.16-02.15.49:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.05.16-02.15.49:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.05.16-02.15.49:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.05.16-02.15.49:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.05.16-02.15.49:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.05.16-02.15.49:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.05.16-02.15.49:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.05.16-02.15.49:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.05.16-02.15.49:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.05.16-02.15.49:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.05.16-02.15.49:707][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.05.16-02.15.49:707][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.05.16-02.15.49:707][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.05.16-02.15.49:707][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.05.16-02.15.49:711][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.05.16-02.15.49:711][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.05.16-02.15.49:711][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.05.16-02.15.49:714][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.05.16-02.15.49:714][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.05.16-02.15.49:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.05.16-02.15.49:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.05.16-02.15.49:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.05.16-02.15.49:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.05.16-02.15.49:721][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.05.16-02.15.49:729][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.05.16-02.15.49:732][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.05.16-02.15.49:732][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.05.16-02.15.49:732][  0]LogTargetPlatformManager:   ADPCM
+[2022.05.16-02.15.49:732][  0]LogTargetPlatformManager:   PCM
+[2022.05.16-02.15.49:735][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.05.16-02.15.49:735][  0]LogTargetPlatformManager:   BINKA
+[2022.05.16-02.15.49:735][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.05.16-02.15.49:735][  0]LogTargetPlatformManager:   OGG
+[2022.05.16-02.15.49:735][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.05.16-02.15.49:735][  0]LogTargetPlatformManager:   OPUS
+[2022.05.16-02.15.49:781][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.05.16-02.15.49:787][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.05.16-02.15.49:787][  0]LogTargetPlatformManager:   SF_METAL
+[2022.05.16-02.15.49:787][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.05.16-02.15.49:787][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.05.16-02.15.49:787][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.05.16-02.15.49:787][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.05.16-02.15.49:787][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.05.16-02.15.49:787][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.05.16-02.15.49:787][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.05.16-02.15.49:787][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.05.16-02.15.49:787][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.05.16-02.15.49:787][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.05.16-02.15.49:787][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.05.16-02.15.49:787][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.05.16-02.15.49:787][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.05.16-02.15.49:787][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.05.16-02.15.49:792][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.05.16-02.15.49:792][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.05.16-02.15.49:792][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.05.16-02.15.49:792][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.05.16-02.15.49:792][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.05.16-02.15.49:792][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.05.16-02.15.49:792][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.05.16-02.15.49:792][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.05.16-02.15.49:792][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../UE Project/MyProject2/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.05.16-02.15.49:792][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.05.16-02.15.49:792][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../UE Project/MyProject2/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.05.16-02.15.49:792][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.05.16-02.15.49:796][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../UE Project/MyProject2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.05.16-02.15.49:796][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.05.16-02.15.49:796][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../UE Project/MyProject2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.16-02.15.49:796][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.05.16-02.15.49:816][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1092 MiB)
+[2022.05.16-02.15.49:816][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.16-02.15.49:816][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.05.16-02.15.49:823][  0]LogDerivedDataCache: Speed tests for C:/Users/Mike/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.05.16-02.15.49:823][  0]LogDerivedDataCache: Display: Performance to C:/Users/Mike/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1349.13MBs, RandomWriteSpeed=153.00MBs. Assigned SpeedClass 'Local'
+[2022.05.16-02.15.49:824][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mike/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.05.16-02.15.49:824][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.05.16-02.15.49:824][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.05.16-02.15.49:830][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.05.16-02.15.49:830][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.05.16-02.15.49:830][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (../../../../../UE Project/MyProject2/Intermediate/Shaders/WorkingDirectory/2500/).
+[2022.05.16-02.15.49:831][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mike/AppData/Local/Temp/UnrealShaderWorkingDir/036ECB684BDA18728D8DF7AE137DBA22/'.
+[2022.05.16-02.15.49:831][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.05.16-02.15.49:831][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.05.16-02.15.51:443][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.05.16-02.15.51:443][  0]LogSlate: Using FreeType 2.10.0
+[2022.05.16-02.15.51:443][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.16-02.15.51:480][  0]LogAssetRegistry: FAssetRegistry took 0.0130 seconds to start up
+[2022.05.16-02.15.51:486][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.05.16-02.15.51:699][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.05.16-02.15.51:700][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.05.16-02.15.51:932][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.05.16-02.15.51:932][  0]LogDeviceProfileManager: Active device profile: [0000054987417540][000005497A700000 50] WindowsEditor
+[2022.05.16-02.15.51:932][  0]LogDeviceProfileManager: Profiles: [0000054987417000][0000054964725000 50] Windows, [0000054987417540][000005497A700000 50] WindowsEditor, [0000054987414D00][000005497A6CA000 50] WindowsServer, [0000054987413480][00000549876D0000 50] WindowsClient, [0000054987416740][00000549876D5000 50] IOS, [00000549874178C0][00000549876D7800 50] iPadAir2, [00000549874132C0][00000549876DC800 50] IPadPro, [0000054987413F00][00000549876DA000 50] iPadAir3, [0000054987414B40][000005497C442800 50] iPadAir4, [0000054987414EC0][00000549876E0000 50] iPadMini4, [0000054987414280][00000549876E5000 50] iPadMini5, [0000054987416040][00000549876E7800 50] iPadMini6, [000005498741A800][00000549876D2800 50] iPhone6S, [000005498741AB80][00000549876EC800 50] iPhone7, [000005498741A480][00000549876EA000 50] iPodTouch7, [0000054987413D40][0000054987700000 50] iPhone6SPlus, [0000054987417FC0][0000054987705000 50] iPhone7Plus, [0000054987416E40][0000054987707800 50] iPhoneSE, [00000549874194C0][000005498770A000 50] iPhone8, [0000054987411DC0][000005498770C800 50] iPhone8Plus, [0000054987415B00][00000549876E2800 50] iPhoneX, [0000054987414980][0000054987720000 50] iPhoneXS, [0000054987418DC0][0000054987725000 50] iPhoneXSMax, [0000054987413100][0000054987727800 50] iPhoneXR, [0000054987413B80][000005498772A000 50] iPhone11, [0000054987415240][000005498772C800 50] iPhone11Pro, [0000054987418A40][0000054987702800 50] iPhone11ProMax, [00000549874139C0][0000054987730000 50] iPhoneSE2, [0000054987413640][0000054987735000 50] iPhone12Mini, [0000054987418340][0000054987737800 50] iPhone12, [0000054987418C00][000005498773A000 50] iPhone12Pro, [0000054987416AC0][000005498773C800 50] iPhone12ProMax, [0000054987415940][0000054987722800 50] iPhone13Mini, [000005498741A2C0][0000054987740000 50] iPhone13, [000005498741A640][0000054987745000 50] iPhone13Pro, [0000054987419680][0000054987747800 50] iPhone13ProMax, [0000054987418500][000005498774A000 50] iPadPro105, [0000054987419300][000005498774C800 50] iPadPro129, [0000054987414600][0000054987732800 50] iPadPro97, [0000054987416200][0000054987750000 50] iPadPro2_129, [0000054987416C80][0000054987755000 50] iPad5, [0000054987417380][0000054987757800 50] iPad6, [00000549874155C0][000005498775A000 50] iPad7, [0000054987418F80][000005498775C800 50] iPad8, [0000054987417C40][0000054987742800 50] iPad9, [0000054987419BC0][0000054987760000 50] iPadPro11, [00000549874163C0][0000054987765000 50] iPadPro2_11, [0000054987419140][0000054987767800 50] iPadPro3_11, [0000054987417700][000005498776A000 50] iPadPro3_129, [0000054987415E80][000005498776C800 50] iPadPro4_129, [0000054987415080][0000054987752800 50] iPadPro5_129, [0000054987417A80][0000054987770000 50] AppleTV, [0000054987412F40][0000054987775000 50] AppleTV4K, [00000549874186C0][0000054987777800 50] TVOS, [000005498741CE80][000005498777C800 50] Mac, [000005498741D200][000005498777A000 50] MacEditor, [0000054987415CC0][0000054987762800 50] MacClient, [000005498741AD40][0000054987780000 50] MacServer, [0000054987418880][0000054987787800 50] Linux, [000005498741D580][0000054987785000 50] LinuxEditor, [0000054987412140][000005498778A000 50] LinuxArm64Editor, [0000054987416900][000005498778C800 50] LinuxArm64, [000005498741C5C0][0000054987772800 50] LinuxClient, [000005498741C400][0000054987790000 50] LinuxArm64Client, [000005498741D740][0000054987795000 50] LinuxServer, [0000054987415780][0000054987797800 50] LinuxArm64Server, [000005498741B980][000005498779A000 50] Android, [000005498741C080][000005498779C800 50] Android_Preview_OpenGL, [000005498741B600][0000054987782800 50] Android_Preview_Vulkan, [000005498741CB00][00000549877A0000 50] Android_Low, [000005498741BB40][00000549877A5000 50] Android_Mid, [000005498741C240][00000549877A7800 50] Android_High, [00000549874140C0][00000549877AA000 50] Android_Default, [0000054987413800][00000549877AC800 50] Android_Adreno4xx, [0000054987414440][0000054987792800 50] Android_Adreno5xx_Low, [0000054987419F40][00000549877B0000 50] Android_Adreno5xx, [000005498741C780][00000549877B5000 50] Android_Adreno6xx, [000005498741BD00][00000549877B7800 50] Android_Adreno6xx_Vulkan, [000005498741CCC0][00000549877BA000 50] Android_Adreno7xx, [000005498741BEC0][00000549877BC800 50] Android_Adreno7xx_Vulkan, [000005498741B0C0][00000549877A2800 50] Android_Mali_T6xx, [000005498741B7C0][00000549877C0000 50] Android_Mali_T7xx, [000005498741E380][00000549877C5000 50] Android_Mali_T8xx, [000005498741B440][00000549877C7800 50] Android_Mali_G71, [0000054987419D80][00000549877CA000 50] Android_Mali_G72, [0000054987419840][00000549877CC800 50] Android_Mali_G72_Vulkan, [000005498741E540][00000549877B2800 50] Android_Mali_G76, [000005498741A100][00000549877D0000 50] Android_Mali_G76_Vulkan, [000005498741E8C0][00000549877D5000 50] Android_Mali_G77, [0000054987417E00][00000549877D7800 50] Android_Mali_G77_Vulkan, [000005498741A9C0][00000549877DA000 50] Android_Mali_G78, [000005498741F340][00000549877DC800 50] Android_Mali_G78_Vulkan, [000005498741D040][00000549877C2800 50] Android_Mali_G710, [00000549874147C0][00000549877E0000 50] Android_Mali_G710_Vulkan, [0000054987418180][00000549877E5000 50] Android_Xclipse_920, [000005498741F500][00000549877E7800 50] Android_Xclipse_920_Vulkan, [000005498741DAC0][00000549877EA000 50] Android_Vulkan_SM5, [000005498741DC80][00000549877EC800 50] Android_PowerVR_G6xxx, [000005498741D3C0][00000549877D2800 50] Android_PowerVR_GT7xxx, [000005498741FC00][00000549877F0000 50] Android_PowerVR_GE8xxx, [000005498741F180][00000549877F5000 50] Android_PowerVR_GM9xxx, [0000054987682140][00000549877F7800 50] Android_PowerVR_GM9xxx_Vulkan, [0000054987680540][00000549877FA000 50] Android_TegraK1, [0000054987682680][00000549877FC800 50] Android_Unknown_Vulkan, [0000054987681180][00000549877E2800 50] Oculus_Quest, [0000054987681F80][0000054987820000 50] Oculus_Quest2, [0000054987680700][0000054987825000 50] HoloLens, 
+[2022.05.16-02.15.51:932][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.05.16-02.15.51:935][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.05.16-02.15.51:935][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.05.16-02.15.51:935][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.05.16-02.15.51:935][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.05.16-02.15.51:935][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="Platform_ValidHostPrerequisites")
+[2022.05.16-02.15.51:956][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.05.16-02.15.52:158][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.05.16-02.15.52:158][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.05.16-02.15.52:158][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.05.16-02.15.52:158][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.05.16-02.15.52:158][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.05.16-02.15.52:175][  0]LogNetVersion: MyProject2 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2744017083)
+[2022.05.16-02.15.52:319][  0]LogSlate: Border
+[2022.05.16-02.15.52:319][  0]LogSlate: BreadcrumbButton
+[2022.05.16-02.15.52:319][  0]LogSlate: Default
+[2022.05.16-02.15.52:319][  0]LogSlate: Icons.Save
+[2022.05.16-02.15.52:319][  0]LogSlate: Icons.Toolbar.Settings
+[2022.05.16-02.15.52:319][  0]LogSlate: ListView
+[2022.05.16-02.15.52:319][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.05.16-02.15.52:319][  0]LogSlate: SoftwareCursor_Grab
+[2022.05.16-02.15.52:319][  0]LogSlate: TableView.DarkRow
+[2022.05.16-02.15.52:319][  0]LogSlate: TableView.Row
+[2022.05.16-02.15.52:319][  0]LogSlate: TreeView
+[2022.05.16-02.15.52:508][  0]SourceControl: Source control is disabled
+[2022.05.16-02.15.52:540][  0]SourceControl: Source control is disabled
+[2022.05.16-02.15.52:540][  0]SourceControl: Source control is disabled
+[2022.05.16-02.15.52:673][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.05.16-02.15.52:673][  0]LogUObjectAllocator: 5584240 out of 0 bytes used by permanent object pool.
+[2022.05.16-02.15.52:673][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.05.16-02.15.53:066][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.05.16-02.15.53:072][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.05.16-02.15.53:083][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: C8D2C28440B1ACA0CD8844B9B8B2593A | Instance: F7A592A048182E0D159BD68963D4457F (DESKTOP-STR2KKF-2500).
+[2022.05.16-02.15.53:120][  0]LogPython: Using Python 3.9.7
+[2022.05.16-02.15.54:168][  0]SourceControl: Source control is disabled
+[2022.05.16-02.15.54:179][  0]SourceControl: Source control is disabled
+[2022.05.16-02.15.54:187][  0]SourceControl: Source control is disabled
+[2022.05.16-02.15.54:204][  0]LogUProjectInfo: Found projects:
+[2022.05.16-02.15.54:205][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.05.16-02.15.54:205][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.05.16-02.15.54:205][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.05.16-02.15.54:543][  0]LogOpenImageDenoise: OIDN starting up
+[2022.05.16-02.15.54:560][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.16-02.15.54:607][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.16-02.15.54:607][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.16-02.15.54:751][  0]LogCollectionManager: Loaded 0 collections in 0.000974 seconds
+[2022.05.16-02.15.54:850][  0]LogFileCache: Scanning file cache for directory 'F:/UE Project/MyProject2/Saved/Collections/' took 0.00s
+[2022.05.16-02.15.54:850][  0]LogFileCache: Scanning file cache for directory 'F:/UE Project/MyProject2/Content/Developers/Mike/Collections/' took 0.00s
+[2022.05.16-02.15.54:850][  0]LogFileCache: Scanning file cache for directory 'F:/UE Project/MyProject2/Content/Collections/' took 0.00s
+[2022.05.16-02.15.55:163][  0]LogEngine: Initializing Engine...
+[2022.05.16-02.15.55:180][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.05.16-02.15.55:181][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.05.16-02.15.55:467][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.16-02.15.55:467][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.16-02.15.55:480][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.16-02.15.55:517][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.05.16-02.15.55:518][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.05.16-02.15.55:545][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.05.16-02.15.55:546][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.05.16-02.15.55:546][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.05.16-02.15.55:546][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.05.16-02.15.55:546][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.05.16-02.15.55:546][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.16-02.15.55:546][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.16-02.15.55:547][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.16-02.15.55:547][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.16-02.15.55:547][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.16-02.15.55:547][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.16-02.15.55:547][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.16-02.15.55:547][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.16-02.15.55:547][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.16-02.15.55:547][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.16-02.15.55:547][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.16-02.15.55:553][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.16-02.15.55:643][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Yeti Stereo Microphone)
+[2022.05.16-02.15.55:644][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.16-02.15.55:645][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.16-02.15.55:646][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.16-02.15.55:646][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.05.16-02.15.55:646][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.05.16-02.15.55:648][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.05.16-02.15.55:648][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.05.16-02.15.55:648][  0]LogInit: FAudioDevice initialized.
+[2022.05.16-02.15.55:648][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.16-02.15.55:648][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.05.16-02.15.55:648][  0]LogInit: Texture streaming: Enabled
+[2022.05.16-02.15.55:693][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.1-19764885+++UE5+Release-5.0
+[2022.05.16-02.15.55:705][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.05.16-02.15.55:748][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.05.16-02.15.55:757][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.05.16-02.15.55:757][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.05.16-02.15.56:808][  0]LogLiveCoding: Display: First instance in process group "UE_MyProject2_0x497bceaa", spawning console
+[2022.05.16-02.15.56:808][  0]LogLiveCoding: Display: Waiting for server
+[2022.05.16-02.15.56:808][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.05.16-02.15.56:824][  0]LogInit: Transaction tracking system initialized
+[2022.05.16-02.15.56:925][  0]BlueprintLog: New page: Editor Load
+[2022.05.16-02.15.57:189][  0]LocalizationService: Localization service is disabled
+[2022.05.16-02.15.57:253][  0]TimingProfiler: Initialize
+[2022.05.16-02.15.57:253][  0]TimingProfiler: OnSessionChanged
+[2022.05.16-02.15.57:254][  0]LoadingProfiler: Initialize
+[2022.05.16-02.15.57:254][  0]LoadingProfiler: OnSessionChanged
+[2022.05.16-02.15.57:254][  0]NetworkingProfiler: Initialize
+[2022.05.16-02.15.57:254][  0]NetworkingProfiler: OnSessionChanged
+[2022.05.16-02.15.57:254][  0]MemoryProfiler: Initialize
+[2022.05.16-02.15.57:254][  0]MemoryProfiler: OnSessionChanged
+[2022.05.16-02.15.57:504][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.05.16-02.15.57:504][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.05.16-02.15.57:504][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.05.16-02.15.58:049][  0]LogFileCache: Scanning file cache for directory 'F:/UE Project/MyProject2/Content/' took 0.00s
+[2022.05.16-02.15.58:049][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.05.16-02.15.58:242][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.05.16-02.15.58:244][  0]SourceControl: Source control is disabled
+[2022.05.16-02.15.58:244][  0]LogUnrealEdMisc: Loading editor; pre map load, took 12.423
+[2022.05.16-02.15.58:245][  0]Cmd: MAP LOAD FILE="../../../../../UE Project/MyProject2/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.16-02.15.58:245][  0]LightingResults: New page: Lighting Build
+[2022.05.16-02.15.58:254][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.16-02.15.58:254][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-02.15.58:254][  0]MapCheck: New page: Map Check
+[2022.05.16-02.15.58:254][  0]LightingResults: New page: Lighting Build
+[2022.05.16-02.15.58:261][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.16-02.15.58:264][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.16-02.15.58:421][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 should be resaved to improve async compilation performance.
+[2022.05.16-02.15.58:423][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair should be resaved to improve async compilation performance.
+[2022.05.16-02.15.58:431][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue should be resaved to improve async compilation performance.
+[2022.05.16-02.15.58:439][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound should be resaved to improve async compilation performance.
+[2022.05.16-02.15.58:449][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.05.16-02.15.58:449][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.16-02.15.58:449][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.16-02.15.58:450][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.16-02.15.58:454][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.16-02.15.58:462][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.05.16-02.15.58:462][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.16-02.15.58:463][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.145ms to complete.
+[2022.05.16-02.15.58:463][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.218
+[2022.05.16-02.15.58:476][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.654
+[2022.05.16-02.15.58:476][  0]LogShaderCompilers: Display: ================================================
+[2022.05.16-02.15.58:476][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.16-02.15.58:476][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.05.16-02.15.58:476][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.05.16-02.15.58:476][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.05.16-02.15.58:476][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.05.16-02.15.58:476][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.05.16-02.15.58:476][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.05.16-02.15.58:476][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.05.16-02.15.58:476][  0]LogShaderCompilers: Display: ================================================
+[2022.05.16-02.15.58:576][  0]LogWindowsTextInputMethodSystem: Activated input method: Japanese (Japan) - Microsoft IME (TSF IME).
+[2022.05.16-02.15.58:619][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.16-02.15.58:626][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.16-02.15.58:633][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.16-02.15.58:639][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.16-02.15.58:695][  0]LogPakFile: Display: Mounted Pak file 'F:/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.05.16-02.15.58:695][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.16-02.15.58:696][  0]LogPakFile: Display: Mounted Pak file 'F:/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.05.16-02.15.58:696][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.16-02.15.58:697][  0]LogPakFile: Display: Mounted Pak file 'F:/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.05.16-02.15.58:697][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.16-02.15.58:697][  0]LogPakFile: Display: Mounted Pak file 'F:/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.05.16-02.15.58:697][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.16-02.15.58:698][  0]LogPakFile: Display: Mounted Pak file 'F:/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.05.16-02.15.58:698][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.16-02.15.58:698][  0]LogPakFile: Display: Mounted Pak file 'F:/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.05.16-02.15.58:698][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.16-02.15.58:699][  0]LogPakFile: Display: Mounted Pak file 'F:/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.05.16-02.15.58:699][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.16-02.15.58:699][  0]LogPakFile: Display: Mounted Pak file 'F:/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.05.16-02.15.58:699][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.16-02.15.58:700][  0]LogPakFile: Display: Mounted Pak file 'F:/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.05.16-02.15.58:700][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.16-02.15.58:700][  0]LogPakFile: Display: Mounted Pak file 'F:/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.05.16-02.15.58:700][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.16-02.15.58:962][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.16-02.15.58:965][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.16-02.15.58:966][  0]LogSlate: Took 0.000107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.16-02.15.58:968][  0]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.05.16-02.15.59:032][  0]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.05.16-02.15.59:559][  0]LogStall: Startup...
+[2022.05.16-02.15.59:561][  0]LogStall: Startup complete.
+[2022.05.16-02.15.59:592][  0]LogLoad: (Engine Initialization) Total time: 13.77 seconds
+[2022.05.16-02.15.59:592][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.05.16-02.15.59:667][  0]LogAssetRegistry: Asset discovery search completed in 8.1902 seconds
+[2022.05.16-02.15.59:678][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.05.16-02.15.59:703][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.05.16-02.16.04:435][299]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.05.16-02.16.04:548][299]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.05.16-02.16.11:959][698]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.16-02.16.19:651][220]LogSlate: Window 'Project Settings' being destroyed
+[2022.05.16-02.16.19:663][220]LogSlate: Window 'Project Settings' being destroyed
+[2022.05.16-02.16.19:663][220]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2022.05.16-02.16.25:574][644]LogConcert: [Pending] Launching Unreal Multi-User Server...
+[2022.05.16-02.16.25:592][644]LogConcert: [Success] Launched Unreal Multi-User Server
+[2022.05.16-02.16.27:090][674]LogConcert: Display: Server DESKTOP-STR2KKF discovered.
+[2022.05.16-02.17.50:079][394]LogDerivedDataCache: C:/Users/Mike/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.012 and deleted 0 file(s) with total size 0 MiB.
+[2022.05.16-02.18.24:014][ 31]LogSlate: Window 'Plugins' being destroyed
+[2022.05.16-02.18.24:027][ 31]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2022.05.16-02.18.27:243][322]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.05.16-02.18.27:361][322]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.05.16-02.20.29:382][768]LogUdpMessaging: Initializing bridge on interface 25.23.208.223:0 to multicast group 230.0.0.1:6666.
+[2022.05.16-02.20.42:733][ 59]LogUdpMessaging: Initializing bridge on interface 25.23.208.223:0 to multicast group 230.0.0.1:6666.
+[2022.05.16-02.20.46:641][325]LogConcert: Display: Server DESKTOP-STR2KKF lost.
+[2022.05.16-02.20.46:657][326]LogConcert: Display: Server DESKTOP-STR2KKF discovered.
+[2022.05.16-02.20.47:844][355]LogUdpMessaging: Warning: Invalid UDP Messaging Static Endpoint ''
+[2022.05.16-02.20.47:844][355]LogUdpMessaging: Initializing bridge on interface 25.23.208.223:0 to multicast group 230.0.0.1:6666.
+[2022.05.16-02.20.52:028][420]LogConcert: Display: Server DESKTOP-STR2KKF lost.
+[2022.05.16-02.20.52:365][421]LogConcert: Display: Server DESKTOP-STR2KKF discovered.
+[2022.05.16-02.21.09:967][949]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.09:967][949]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.09:967][949]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:061][955]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:061][955]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:061][955]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:168][962]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:168][962]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:168][962]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:263][968]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:263][968]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:263][968]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:369][975]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:369][975]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:369][975]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:464][981]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:464][981]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:464][981]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:564][988]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:564][988]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:564][988]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:670][995]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:670][995]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:670][995]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:765][  1]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:765][  1]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:765][  1]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:880][  8]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:880][  8]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:880][  8]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:984][ 15]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:984][ 15]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.10:984][ 15]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.11:088][ 20]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.11:088][ 20]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.11:088][ 20]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.11:196][ 28]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.11:196][ 28]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.11:196][ 28]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.11:301][ 35]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.11:301][ 35]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.11:301][ 35]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.11:392][ 41]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.11:392][ 41]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.11:392][ 41]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.11:500][ 48]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.11:500][ 48]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.11:500][ 48]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.11:602][ 55]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.11:602][ 55]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.11:602][ 55]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments.
+[2022.05.16-02.21.11:602][ 55]LogUdpMessaging: Warning: Gave up sending with 1 outstanding acks.
+[2022.05.16-02.21.11:602][ 55]LogUdpMessaging: Warning: Gave up sending with 1 outstanding acks.
+[2022.05.16-02.21.11:602][ 55]LogUdpMessaging: Warning: Gave up sending with 1 outstanding acks.
+[2022.05.16-02.21.11:607][ 55]LogUdpMessaging: Warning: FUdpMessageProcessor::GetInitializedSegments segmenter is invalid. Removing from send queue.
+[2022.05.16-02.21.11:607][ 55]LogUdpMessaging: Warning: FUdpMessageProcessor::GetInitializedSegments segmenter is invalid. Removing from send queue.
+[2022.05.16-02.21.11:607][ 55]LogUdpMessaging: Warning: FUdpMessageProcessor::GetInitializedSegments segmenter is invalid. Removing from send queue.
+[2022.05.16-02.21.14:145][ 74]LogConcert: Display: Server DESKTOP-STR2KKF lost.
+[2022.05.16-02.21.19:545][177]LogConcert: [Pending] Launching Unreal Multi-User Server...
+[2022.05.16-02.21.19:561][177]LogConcert: [Success] Launched Unreal Multi-User Server
+[2022.05.16-02.21.21:944][219]LogConcert: Display: Server DESKTOP-STR2KKF discovered.
+[2022.05.16-02.22.54:041][172]LogSlate: Window 'Delete Session Confirmation' being destroyed
+[2022.05.16-02.22.54:054][172]Message dialog closed, result: Yes, title: Delete Session Confirmation, text: Do you really want to delete the session "tank factory" from the server "DESKTOP-STR2KKF"?
+[2022.05.16-02.22.54:070][172]LogConcert: [Pending] Deleting Session...
+[2022.05.16-02.22.54:818][209]LogConcert: [Success] Deleted Session 'tank factory'
+[2022.05.16-02.22.59:734][580]LogConcert: [Pending] Creating Session 'plz work'...
+[2022.05.16-02.22.59:734][580]LogConcert: [Pending] Creating Session 'plz work'... - Validating Workspace...
+[2022.05.16-02.22.59:745][580]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.16-02.23.00:036][585]LogConcert: [Pending] Creating Session 'plz work'... - Attempting Remote Connection...
+[2022.05.16-02.23.00:065][586]LogConcertTakeRecorder: Display: Multi-user Take Recorder Session Startup: plz work
+[2022.05.16-02.23.00:090][586]SourceControl: Source control is disabled
+[2022.05.16-02.23.00:090][586]SourceControl: Source control is disabled
+[2022.05.16-02.23.00:137][586]LogConcert: Display: Initialized Concert session 'plz work' (Id: 7701200941F0D9F3C187C89EF0D3880B, Owner: Mike).
+[2022.05.16-02.23.00:137][586]LogConcert: Display: Connecting to Concert session 'plz work' (Id: 7701200941F0D9F3C187C89EF0D3880B, Owner: Mike).
+[2022.05.16-02.23.00:199][588]LogConcertTakeRecorder: Display: Multi-user Take Recorder Connected to Session: plz work
+[2022.05.16-02.23.00:202][588]LogConcert: Display: Connected to Concert session 'plz work' (Id: 7701200941F0D9F3C187C89EF0D3880B, Owner: Mike).
+[2022.05.16-02.23.00:233][589]LogConcert: Display: Synced activity '1' produced by endpoint 'AA43034646EF8E0685E5B6AC14264AD4': lol joined the session.
+[2022.05.16-02.23.00:249][591]LogConcert: [Success] Created Session 'plz work'
+[2022.05.16-02.26.19:457][225]LogConcertTakeRecorder: Display: Session Client Change: nice Connected.
+[2022.05.16-02.26.19:457][225]LogConcert: Display: User 'Justin Chow' (Endpoint: 457A21D543DF65E7D5ED8F9572E5F5E9) joined Concert session 'plz work' (Id: 7701200941F0D9F3C187C89EF0D3880B, Owner: Mike).
+[2022.05.16-02.26.19:457][225]LogConcert: Display: Synced activity '2' produced by endpoint '457A21D543DF65E7D5ED8F9572E5F5E9': nice joined the session.
+[2022.05.16-02.26.26:242][675]LogSlate: Window 'Project Settings' being destroyed
+[2022.05.16-02.31.53:431][327]LogConcertTakeRecorder: Display: Session Client Change: nice Disconnected.
+[2022.05.16-02.31.53:433][327]LogConcert: Display: User 'Justin Chow' (Endpoint: 457A21D543DF65E7D5ED8F9572E5F5E9) left Concert session 'plz work' (Id: 7701200941F0D9F3C187C89EF0D3880B, Owner: Mike).
+[2022.05.16-02.31.53:433][327]LogConcert: Display: Synced activity '3' produced by endpoint '457A21D543DF65E7D5ED8F9572E5F5E9': nice left the session.
+[2022.05.16-02.34.13:123][746]LogConcertTakeRecorder: Display: Session Client Change: nice Connected.
+[2022.05.16-02.34.13:123][746]LogConcert: Display: User 'Justin Chow' (Endpoint: CA0B9BEA44E89BCA755BC7B8B41BFBB6) joined Concert session 'plz work' (Id: 7701200941F0D9F3C187C89EF0D3880B, Owner: Mike).
+[2022.05.16-02.34.13:123][746]LogConcert: Display: Synced activity '4' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice joined the session.
+[2022.05.16-02.35.14:145][929]LogConcert: Display: Synced activity '5' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice created StaticMeshActor_1 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-02.35.18:158][941]LogConcert: Display: Synced activity '6' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice locked StaticMeshActor_1.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-02.35.18:830][943]LogConcert: Display: Synced activity '7' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice modified StaticMeshActor_1.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-02.35.18:830][943]LogConcert: Display: Synced activity '8' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice unlocked StaticMeshActor_1.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-02.35.19:841][946]LogConcert: Display: Synced activity '9' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice deleted StaticMeshActor_1 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-02.35.23:554][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.05.16-02.35.23:563][956]LogPackageLocalizationCache: Processed 33 localized package path(s) for 1 prioritized culture(s) in 0.005601 seconds
+[2022.05.16-02.35.23:579][956]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1
+[2022.05.16-02.35.23:579][956]LogSavePackage: Moving '../../../../../UE Project/MyProject2/Saved/Minimal_Default_Auto103FD589744779BA6D4E294BE7C8518BF.tmp' to '../../../../../UE Project/MyProject2/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2022.05.16-02.35.23:582][956]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.036
+[2022.05.16-02.35.23:582][956]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2022.05.16-02.35.49:527][ 35]LogConcert: Display: Synced activity '10' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice modified Chair in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-02.35.50:197][ 37]LogConcert: Display: Synced activity '11' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice modified Chair in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-02.36.24:533][140]LogConcert: Display: Synced activity '12' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice modified Chair_15 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-02.36.50:883][219]LogConcert: Display: Synced activity '13' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice modified Chair.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-02.37.07:225][268]LogConcert: Display: Synced activity '14' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice modified Chair.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-02.37.09:899][276]LogConcert: Display: Synced activity '15' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice modified Chair.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-02.37.11:905][282]LogConcert: Display: Synced activity '16' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice modified Chair.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-02.37.14:576][290]LogConcert: Display: Synced activity '17' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice modified Chair.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-02.37.14:916][291]LogConcert: Display: Synced activity '18' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice modified Chair.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-02.37.15:257][292]LogConcert: Display: Synced activity '19' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice modified Chair.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-02.38.13:268][466]LogConcert: Display: Synced activity '20' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice created Emitter_1 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-02.38.14:933][471]LogConcert: Display: Synced activity '21' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice locked Emitter_1.ParticleSystemComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-02.38.15:272][472]LogConcert: Display: Synced activity '22' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice modified Emitter_1.ParticleSystemComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-02.38.15:272][472]LogConcert: Display: Synced activity '23' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice unlocked Emitter_1.ParticleSystemComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-02.38.18:275][481]LogConcert: Display: Synced activity '24' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice modified Emitter_1.ParticleSystemComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-02.38.30:947][519]LogConcert: Display: Synced activity '25' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice modified Emitter_1.ParticleSystemComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-02.38.31:622][521]LogConcert: Display: Synced activity '26' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice modified Emitter_1.ParticleSystemComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-02.38.31:626][521]LogConcert: Display: Synced activity '27' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice deleted Emitter_1 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-02.38.45:977][564]LogConcert: Display: Synced activity '28' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice created StaticMeshActor_2 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-02.38.46:982][567]LogConcert: Display: Synced activity '29' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice created StaticMeshActor_3 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-02.38.48:652][572]LogConcert: Display: Synced activity '30' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice deleted StaticMeshActor_3 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-02.38.51:323][580]LogConcert: Display: Synced activity '31' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice deleted StaticMeshActor_2 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-02.39.46:667][746]LogConcert: Display: Synced activity '32' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice locked /Game/FirstPerson/Maps/FirstPersonMap_BuiltData.
+[2022.05.16-02.40.46:676][926]LogConcertTakeRecorder: Display: Session Client Change: nice Disconnected.
+[2022.05.16-02.40.46:676][926]LogConcert: Display: User 'Justin Chow' (Endpoint: CA0B9BEA44E89BCA755BC7B8B41BFBB6) left Concert session 'plz work' (Id: 7701200941F0D9F3C187C89EF0D3880B, Owner: Mike).
+[2022.05.16-02.40.46:676][926]LogConcert: Display: Synced activity '33' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice unlocked /Game/FirstPerson/Maps/FirstPersonMap_BuiltData.
+[2022.05.16-02.40.46:676][926]LogConcert: Display: Synced activity '34' produced by endpoint 'CA0B9BEA44E89BCA755BC7B8B41BFBB6': nice left the session.
+[2022.05.16-02.45.24:157][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.05.16-02.45.24:172][757]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2
+[2022.05.16-02.45.24:173][757]LogSavePackage: Moving '../../../../../UE Project/MyProject2/Saved/Minimal_Default_Auto2F13E725C4ECF3B031B2DF387DDA108BA.tmp' to '../../../../../UE Project/MyProject2/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2022.05.16-02.45.24:174][757]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.026
+[2022.05.16-02.45.24:174][757]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.026
+[2022.05.16-02.58.10:165][289]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-STR2KKF
+[2022.05.16-02.58.10:165][289]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="F:/UE Project/MyProject2/MyProject2.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="F:/UE Project/MyProject2/Intermediate/TurnkeyReport_1.log" -log="F:/UE Project/MyProject2/Intermediate/TurnkeyLog_1.log" -project="F:/UE Project/MyProject2/MyProject2.uproject"  -Device=Win64@DESKTOP-STR2KKF'
+[2022.05.16-02.58.10:165][289]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""F:/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="F:/UE Project/MyProject2/MyProject2.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="F:/UE Project/MyProject2/Intermediate/TurnkeyReport_1.log" -log="F:/UE Project/MyProject2/Intermediate/TurnkeyLog_1.log" -project="F:/UE Project/MyProject2/MyProject2.uproject"  -Device=Win64@DESKTOP-STR2KKF" -nocompile ]
+[2022.05.16-02.58.10:994][382]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.05.16-02.58.10:994][382]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-STR2KKF: (Name=DESKTOP-STR2KKF, Status=Valid, Installed=10.0.18363.0, MinAllowed=10.0.18362.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2022.05.16-02.58.23:732][398]LogConcert: Display: Suspended Concert session 'plz work' (Id: 7701200941F0D9F3C187C89EF0D3880B, Owner: Mike).
+[2022.05.16-02.58.25:013][479]LogConcert: Display: Resumed Concert session 'plz work' (Id: 7701200941F0D9F3C187C89EF0D3880B, Owner: Mike).
+[2022.05.16-02.58.39:817][ 69]LogSlate: Window 'Message' being destroyed
+[2022.05.16-02.58.39:831][ 69]Message dialog closed, result: Yes, title: Message, text: You are about to leave a session containing changes. Do you want to persist the changes?
+[2022.05.16-02.58.41:894][ 69]LogSlate: Window 'Persist & Submit Files' being destroyed
+[2022.05.16-02.59.54:682][832]LogConcert: Display: Suspended Concert session 'plz work' (Id: 7701200941F0D9F3C187C89EF0D3880B, Owner: Mike).
+[2022.05.16-02.59.58:157][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.05.16-02.59.58:223][986]LogSlate: Window 'Multi-User Browser' being destroyed
+[2022.05.16-02.59.58:227][986]LogSlate: Window 'Multi-User Browser' being destroyed
+[2022.05.16-03.00.00:861][986]LogSlate: Window 'Save Content' being destroyed
+[2022.05.16-03.00.02:514][ 92]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-STR2KKF
+[2022.05.16-03.00.23:578][131]LogConcert: Display: Resumed Concert session 'plz work' (Id: 7701200941F0D9F3C187C89EF0D3880B, Owner: Mike).
+[2022.05.16-03.00.47:931][ 60]LogConcert: Display: Disconnected from Concert session 'plz work' (Id: 7701200941F0D9F3C187C89EF0D3880B, Owner: Mike).
+[2022.05.16-03.00.47:931][ 60]LogConcertTakeRecorder: Display: Multi-user Take Recorder Session Shutdown: plz work
+[2022.05.16-03.00.47:931][ 60]SourceControl: Source control is disabled
+[2022.05.16-03.00.47:934][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/Engine/' was aborted.
+[2022.05.16-03.00.47:934][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/MyProject2/' was aborted.
+[2022.05.16-03.00.47:934][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/Bridge/' was aborted.
+[2022.05.16-03.00.47:934][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/ControlRigSpline/' was aborted.
+[2022.05.16-03.00.47:934][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/ControlRig/' was aborted.
+[2022.05.16-03.00.47:934][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/IKRig/' was aborted.
+[2022.05.16-03.00.47:934][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/Paper2D/' was aborted.
+[2022.05.16-03.00.47:934][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/AnimationSharing/' was aborted.
+[2022.05.16-03.00.47:934][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/GeometryMode/' was aborted.
+[2022.05.16-03.00.47:934][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/SpeedTreeImporter/' was aborted.
+[2022.05.16-03.00.47:935][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/ModelingToolsEditorMode/' was aborted.
+[2022.05.16-03.00.47:935][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/DatasmithContent/' was aborted.
+[2022.05.16-03.00.47:935][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/ChaosClothEditor/' was aborted.
+[2022.05.16-03.00.47:935][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/ChaosNiagara/' was aborted.
+[2022.05.16-03.00.47:935][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/ChaosSolverPlugin/' was aborted.
+[2022.05.16-03.00.47:935][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/FullBodyIK/' was aborted.
+[2022.05.16-03.00.47:935][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/MediaCompositing/' was aborted.
+[2022.05.16-03.00.47:935][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/GeometryFlow/' was aborted.
+[2022.05.16-03.00.47:935][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/GeometryCollectionPlugin/' was aborted.
+[2022.05.16-03.00.47:935][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/MeshLODToolset/' was aborted.
+[2022.05.16-03.00.47:935][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/MeshModelingToolsetExp/' was aborted.
+[2022.05.16-03.00.47:935][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/Niagara/' was aborted.
+[2022.05.16-03.00.47:935][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/PythonScriptPlugin/' was aborted.
+[2022.05.16-03.00.47:935][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/SequencerScripting/' was aborted.
+[2022.05.16-03.00.47:936][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/AudioSynesthesia/' was aborted.
+[2022.05.16-03.00.47:936][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/GeometryProcessing/' was aborted.
+[2022.05.16-03.00.47:936][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/HairStrands/' was aborted.
+[2022.05.16-03.00.47:936][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/MeshModelingToolset/' was aborted.
+[2022.05.16-03.00.47:936][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/MultiUserTakes/' was aborted.
+[2022.05.16-03.00.47:936][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/Takes/' was aborted.
+[2022.05.16-03.00.47:936][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/ResonanceAudio/' was aborted.
+[2022.05.16-03.00.47:936][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/Synthesis/' was aborted.
+[2022.05.16-03.00.47:936][ 60]LogDirectoryWatcher: A directory notification for 'F:/UE Project/MyProject2/Intermediate/Concert/MultiUser/F7A592A048182E0D159BD68963D4457F/7701200941F0D9F3C187C89EF0D3880B/Sandbox/ConcertSyncClient/' was aborted.
+[2022.05.16-03.00.47:943][ 60]LightingResults: New page: Lighting Build
+[2022.05.16-03.00.47:946][ 60]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.16-03.00.47:947][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-03.00.47:947][ 60]MapCheck: New page: Map Check
+[2022.05.16-03.00.47:947][ 60]LightingResults: New page: Lighting Build
+[2022.05.16-03.00.47:954][ 60]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.16-03.00.47:956][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.05.16-03.00.47:960][ 60]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.16-03.00.47:960][ 60]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.16-03.00.47:960][ 60]LogAIModule: Creating AISystem for world Untitled
+[2022.05.16-03.00.47:961][ 60]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.16-03.00.47:974][ 60]LoadErrors: New page: New Map
+[2022.05.16-03.00.47:977][ 60]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/StarterContent/Maps/Minimal_Default.Minimal_Default) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2022.05.16-03.00.47:994][ 60]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.05.16-03.00.47:995][ 60]Cmd: MAP LOAD FILE="../../../../../UE Project/MyProject2/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.16-03.00.47:995][ 60]LightingResults: New page: Lighting Build
+[2022.05.16-03.00.47:995][ 60]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2022.05.16-03.00.47:996][ 60]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.16-03.00.47:996][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-03.00.47:996][ 60]MapCheck: New page: Map Check
+[2022.05.16-03.00.47:996][ 60]LightingResults: New page: Lighting Build
+[2022.05.16-03.00.48:004][ 60]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.16-03.00.48:013][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.05.16-03.00.48:016][ 60]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.16-03.00.48:016][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-03.00.48:026][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.05.16-03.00.48:033][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.05.16-03.00.48:049][ 60]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.05.16-03.00.48:050][ 60]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.16-03.00.48:050][ 60]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.16-03.00.48:050][ 60]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.16-03.00.48:065][ 60]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.16-03.00.48:091][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.05.16-03.00.48:095][ 60]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.16-03.00.48:095][ 60]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.085ms to complete.
+[2022.05.16-03.00.48:095][ 60]LogFileHelpers: Loading map 'Minimal_Default' took 0.100
+[2022.05.16-03.00.48:101][ 60]LogConcert: Display: Shutdown Concert session 'plz work' (Id: 7701200941F0D9F3C187C89EF0D3880B, Owner: Mike).
+[2022.05.16-03.00.49:243][ 62]LogConcert: Display: Server DESKTOP-STR2KKF lost.
+[2022.05.16-03.01.03:590][104]LogConcert: [Pending] Launching Unreal Multi-User Server...
+[2022.05.16-03.01.03:606][104]LogConcert: [Success] Launched Unreal Multi-User Server
+[2022.05.16-03.01.05:591][169]LogConcert: Display: Server DESKTOP-STR2KKF discovered.
+[2022.05.16-03.04.03:538][ 86]LogConcert: [Pending] Joining Session...
+[2022.05.16-03.04.03:538][ 86]LogConcert: [Pending] Joining Session... - Validating Workspace...
+[2022.05.16-03.04.03:863][ 91]LogConcert: [Pending] Joining Session... - Attempting Remote Connection...
+[2022.05.16-03.04.03:901][ 92]LogConcertTakeRecorder: Display: Multi-user Take Recorder Session Startup: plz work
+[2022.05.16-03.04.03:922][ 92]SourceControl: Source control is disabled
+[2022.05.16-03.04.03:923][ 92]SourceControl: Source control is disabled
+[2022.05.16-03.04.03:923][ 92]LogConcert: Display: Initialized Concert session 'plz work' (Id: 7701200941F0D9F3C187C89EF0D3880B, Owner: Mike).
+[2022.05.16-03.04.03:923][ 92]LogConcert: Display: Connecting to Concert session 'plz work' (Id: 7701200941F0D9F3C187C89EF0D3880B, Owner: Mike).
+[2022.05.16-03.04.04:015][ 94]LogConcertTakeRecorder: Display: Multi-user Take Recorder Connected to Session: plz work
+[2022.05.16-03.04.04:018][ 94]LogConcert: Display: Connected to Concert session 'plz work' (Id: 7701200941F0D9F3C187C89EF0D3880B, Owner: Mike).
+[2022.05.16-03.04.04:018][ 94]LogConcertTakeRecorder: Display: Session Client Change: nice Connected.
+[2022.05.16-03.04.04:018][ 94]LogConcert: Display: User 'Justin Chow' (Endpoint: B8D53DDD40B30393B5FA6E988AB75DA8) joined Concert session 'plz work' (Id: 7701200941F0D9F3C187C89EF0D3880B, Owner: Mike).
+[2022.05.16-03.04.04:061][ 95]LogConcert: Display: Synced activity '35' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice joined the session.
+[2022.05.16-03.04.04:062][ 95]LogConcert: Display: Synced activity '36' produced by endpoint 'A4810C71430911AF3228B4B3B5BA1E8C': lol joined the session.
+[2022.05.16-03.04.04:083][ 95]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.DesktopPresence_C_1'
+[2022.05.16-03.04.04:089][ 95]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.DesktopPresence_C_1'
+[2022.05.16-03.04.04:114][ 95]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.DesktopPresence_C_1'
+[2022.05.16-03.04.04:127][ 95]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.DesktopPresence_C_1'
+[2022.05.16-03.04.04:150][ 95]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.DesktopPresence_C_1'
+[2022.05.16-03.04.04:154][ 95]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.DesktopPresence_C_1'
+[2022.05.16-03.04.04:158][ 95]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.DesktopPresence_C_1'
+[2022.05.16-03.04.04:169][ 95]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.DesktopPresence_C_1'
+[2022.05.16-03.04.04:202][ 96]LogConcert: [Success] Joined Session 'plz work'
+[2022.05.16-03.10.28:050][530]LogConcert: Display: Synced activity '37' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked Chair_15.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default, plus 3 other resources.
+[2022.05.16-03.10.29:392][534]LogConcert: Display: Synced activity '38' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified Chair.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default, plus 2 other actions.
+[2022.05.16-03.10.29:394][534]LogConcert: Display: Synced activity '39' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked Chair.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default, plus 3 other resources.
+[2022.05.16-03.10.29:737][535]LogConcert: Display: Synced activity '40' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified Chair.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default, plus 2 other actions.
+[2022.05.16-03.10.46:225][584]LogConcert: Display: Synced activity '41' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked Chair_15.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default, plus 1 other resource.
+[2022.05.16-03.10.46:561][585]LogConcert: Display: Synced activity '42' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified Chair_15.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default, plus 1 other action.
+[2022.05.16-03.10.46:562][585]LogConcert: Display: Synced activity '43' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked Statue.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default, plus 1 other resource.
+[2022.05.16-03.10.46:900][586]LogConcert: Display: Synced activity '44' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified Chair_15.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default, plus 1 other action.
+[2022.05.16-03.10.48:276][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.05.16-03.10.48:292][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3
+[2022.05.16-03.10.48:293][589]LogSavePackage: Moving '../../../../../UE Project/MyProject2/Saved/Minimal_Default_Auto32AF100324193C749B1517F86406E7459.tmp' to '../../../../../UE Project/MyProject2/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap'
+[2022.05.16-03.10.48:294][589]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.026
+[2022.05.16-03.10.48:294][589]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.026
+[2022.05.16-03.11.02:720][633]LogConcert: Display: Synced activity '45' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked Table_9.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default, plus 1 other resource.
+[2022.05.16-03.11.05:758][642]LogConcert: Display: Synced activity '46' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice created Chair_10 in /Game/StarterContent/Maps/Minimal_Default, plus 1 other action.
+[2022.05.16-03.11.05:759][642]LogConcert: Display: Synced activity '47' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked Chair_10.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default, plus 1 other resource.
+[2022.05.16-03.11.10:131][655]LogConcert: Display: Synced activity '48' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked Table_9.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default, plus 1 other resource.
+[2022.05.16-03.11.15:510][671]LogConcert: Display: Synced activity '49' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified Chair_10.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default, plus 1 other action.
+[2022.05.16-03.11.15:511][671]LogConcert: Display: Synced activity '50' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked Chair_10.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default, plus 1 other resource.
+[2022.05.16-03.11.16:180][673]LogConcert: Display: Synced activity '51' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked Table_11.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default, plus 1 other resource.
+[2022.05.16-03.11.18:885][681]LogConcert: Display: Synced activity '52' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice created Chair_12 in /Game/StarterContent/Maps/Minimal_Default, plus 1 other action.
+[2022.05.16-03.11.18:887][681]LogConcert: Display: Synced activity '53' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked Chair_12.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default, plus 1 other resource.
+[2022.05.16-03.11.19:890][684]LogConcert: Display: Synced activity '54' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked Table_11.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default, plus 1 other resource.
+[2022.05.16-03.11.22:573][692]LogConcert: Display: Synced activity '55' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified Chair_12.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default, plus 1 other action.
+[2022.05.16-03.11.22:574][692]LogConcert: Display: Synced activity '56' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked Chair_12.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default, plus 1 other resource.
+[2022.05.16-03.11.23:912][696]LogConcert: Display: Synced activity '57' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked Table_11.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default, plus 1 other resource.
+[2022.05.16-03.11.26:597][704]LogConcert: Display: Synced activity '58' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified Chair_12.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default, plus 1 other action.
+[2022.05.16-03.11.26:597][704]LogConcert: Display: Synced activity '59' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked Chair_12.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default, plus 1 other resource.
+[2022.05.16-03.11.30:633][716]LogConcert: Display: Synced activity '60' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified BP_Sky_Sphere_C_2 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.11.30:635][716]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2022.05.16-03.11.30:635][716]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2022.05.16-03.11.33:658][725]LogConcert: Display: Synced activity '61' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice deleted Chair_10 in /Game/StarterContent/Maps/Minimal_Default, plus 3 other actions.
+[2022.05.16-03.11.33:662][725]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2022.05.16-03.11.33:662][725]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2022.05.16-03.11.36:345][733]LogConcert: Display: Synced activity '62' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice saved package /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.11.36:350][733]LightingResults: New page: Lighting Build
+[2022.05.16-03.11.36:353][733]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.16-03.11.36:353][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-03.11.36:353][733]MapCheck: New page: Map Check
+[2022.05.16-03.11.36:353][733]LightingResults: New page: Lighting Build
+[2022.05.16-03.11.36:360][733]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.16-03.11.36:362][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.05.16-03.11.36:365][733]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.16-03.11.36:365][733]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.16-03.11.36:365][733]LogAIModule: Creating AISystem for world Untitled
+[2022.05.16-03.11.36:366][733]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.16-03.11.36:378][733]LoadErrors: New page: New Map
+[2022.05.16-03.11.36:380][733]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/StarterContent/Maps/Minimal_Default.Minimal_Default) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2022.05.16-03.11.36:399][733]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.05.16-03.11.36:399][733]Cmd: MAP LOAD FILE="../../../../../UE Project/MyProject2/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.16-03.11.36:399][733]LightingResults: New page: Lighting Build
+[2022.05.16-03.11.36:399][733]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2022.05.16-03.11.36:400][733]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.16-03.11.36:400][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-03.11.36:400][733]MapCheck: New page: Map Check
+[2022.05.16-03.11.36:400][733]LightingResults: New page: Lighting Build
+[2022.05.16-03.11.36:407][733]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.16-03.11.36:416][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.05.16-03.11.36:419][733]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.16-03.11.36:419][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-03.11.36:429][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.05.16-03.11.36:437][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.05.16-03.11.36:454][733]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.05.16-03.11.36:454][733]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.16-03.11.36:454][733]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.16-03.11.36:455][733]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.16-03.11.36:458][733]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.16-03.11.36:491][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.05.16-03.11.36:495][733]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.16-03.11.36:495][733]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.115ms to complete.
+[2022.05.16-03.11.36:495][733]LogFileHelpers: Loading map 'Minimal_Default' took 0.096
+[2022.05.16-03.11.45:723][761]LogConcert: Display: Synced activity '63' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked Table.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.11.47:737][767]LogConcert: Display: Synced activity '64' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified Table.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.11.47:738][767]LogConcert: Display: Synced activity '65' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked Table.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.11.49:411][772]LogConcert: Display: Synced activity '66' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified Table.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.11.49:413][772]LogConcert: Display: Synced activity '67' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified Table.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.11.50:084][774]LogConcert: Display: Synced activity '68' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked Table.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.11.51:427][778]LogConcert: Display: Synced activity '69' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified Table.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.11.51:427][778]LogConcert: Display: Synced activity '70' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked Table.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.11.56:784][794]LogConcert: Display: Synced activity '71' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked Table.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.11.58:793][800]LogConcert: Display: Synced activity '72' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified Table.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.11.58:794][800]LogConcert: Display: Synced activity '73' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked Table.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.11.59:801][803]LogConcert: Display: Synced activity '74' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified Table.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.02:489][811]LogConcert: Display: Synced activity '75' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked Table_13.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.04:168][816]LogConcert: Display: Synced activity '76' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice created Table_13 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.04:169][816]LogConcert: Display: Synced activity '77' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked Table_13.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.05:175][819]LogConcert: Display: Synced activity '78' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked Table_14.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.05:510][820]LogConcert: Display: Synced activity '79' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice created Table_14 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.05:512][820]LogConcert: Display: Synced activity '80' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked Table_14.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.05:846][821]LogConcert: Display: Synced activity '81' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked Table_14.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.07:851][827]LogConcert: Display: Synced activity '82' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified Table_14.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.07:851][827]LogConcert: Display: Synced activity '83' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked Table_14.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.08:195][828]LogConcert: Display: Synced activity '84' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified Table_14.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.08:529][829]LogConcert: Display: Synced activity '85' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice deleted Table_14 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.12:879][842]LogConcert: Display: Synced activity '86' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked Table_13.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.14:219][846]LogConcert: Display: Synced activity '87' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified Table_13.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.14:220][846]LogConcert: Display: Synced activity '88' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked Table_13.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.16:233][852]LogConcert: Display: Synced activity '89' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked Table_13.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.18:253][858]LogConcert: Display: Synced activity '90' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified Table_13.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.18:253][858]LogConcert: Display: Synced activity '91' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked Table_13.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.32:654][901]LogConcert: Display: Synced activity '92' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice created StaticMeshActor_16 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.32:669][901]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Lamp_Ceiling.SM_Lamp_Ceiling should be resaved to improve async compilation performance.
+[2022.05.16-03.12.35:666][910]LogConcert: Display: Synced activity '93' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.36:335][912]LogConcert: Display: Synced activity '94' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.36:336][912]LogConcert: Display: Synced activity '95' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.37:686][916]LogConcert: Display: Synced activity '96' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.39:033][920]LogConcert: Display: Synced activity '97' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.39:034][920]LogConcert: Display: Synced activity '98' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.41:719][928]LogConcert: Display: Synced activity '99' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.44:404][936]LogConcert: Display: Synced activity '100' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.44:405][936]LogConcert: Display: Synced activity '101' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.46:419][942]LogConcert: Display: Synced activity '102' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.47:439][945]LogConcert: Display: Synced activity '103' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.47:440][945]LogConcert: Display: Synced activity '104' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.50:452][954]LogConcert: Display: Synced activity '105' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.52:135][959]LogConcert: Display: Synced activity '106' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.12.52:136][959]LogConcert: Display: Synced activity '107' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.13.08:881][  9]LogConcert: Display: Synced activity '108' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.13.11:233][ 16]LogConcert: Display: Synced activity '109' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.13.11:233][ 16]LogConcert: Display: Synced activity '110' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.13.12:246][ 19]LogConcert: Display: Synced activity '111' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.13.26:314][ 61]LogConcert: Display: Synced activity '112' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.13.27:668][ 65]LogConcert: Display: Synced activity '113' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.13.27:668][ 65]LogConcert: Display: Synced activity '114' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.13.31:016][ 75]LogConcert: Display: Synced activity '115' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.13.31:351][ 76]LogConcert: Display: Synced activity '116' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.13.31:351][ 76]LogConcert: Display: Synced activity '117' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.13.58:843][158]LogConcert: Display: Synced activity '118' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.14:589][205]LogConcert: Display: Synced activity '119' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.14:595][205]LogPhysics: Warning: Scale for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_16.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2022.05.16-03.14.16:603][211]LogConcert: Display: Synced activity '120' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.16:603][211]LogConcert: Display: Synced activity '121' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.16:941][212]LogConcert: Display: Synced activity '122' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.22:636][229]LogConcert: Display: Synced activity '123' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.22:981][230]LogPhysics: Warning: Scale for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_16.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.05.16-03.14.22:982][230]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_16.StaticMeshComponent0' 
+[2022.05.16-03.14.23:310][231]LogConcert: Display: Synced activity '124' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.23:310][231]LogConcert: Display: Synced activity '125' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.23:312][231]LogPhysics: Warning: Scale for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_16.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.05.16-03.14.23:312][231]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_16.StaticMeshComponent0' 
+[2022.05.16-03.14.23:313][231]LogPhysics: Warning: Scale for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_16.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.05.16-03.14.23:314][231]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_16.StaticMeshComponent0' 
+[2022.05.16-03.14.23:637][231]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_16.StaticMeshComponent0)
+[2022.05.16-03.14.23:647][232]LogConcert: Display: Synced activity '126' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified StaticMeshActor_16.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.23:648][232]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_16.StaticMeshComponent0)
+[2022.05.16-03.14.26:657][241]LogConcert: Display: Synced activity '127' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked StaticMeshActor_17.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.26:996][242]LogConcert: Display: Synced activity '128' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice created StaticMeshActor_17 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.26:997][242]LogConcert: Display: Synced activity '129' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked StaticMeshActor_17.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.27:666][244]LogConcert: Display: Synced activity '130' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked StaticMeshActor_17.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.29:348][249]LogConcert: Display: Synced activity '131' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified StaticMeshActor_17.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.29:349][249]LogConcert: Display: Synced activity '132' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked StaticMeshActor_17.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.29:349][249]LogConcert: Display: Synced activity '133' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked StaticMeshActor_17.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.30:687][253]LogConcert: Display: Synced activity '134' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified StaticMeshActor_17.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.30:688][253]LogConcert: Display: Synced activity '135' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked StaticMeshActor_17.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.30:689][253]LogConcert: Display: Synced activity '136' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked StaticMeshActor_17.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.31:029][254]LogConcert: Display: Synced activity '137' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified StaticMeshActor_17.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.31:029][254]LogConcert: Display: Synced activity '138' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked StaticMeshActor_17.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.33:706][262]LogConcert: Display: Synced activity '139' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked StaticMeshActor_17.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.35:728][268]LogConcert: Display: Synced activity '140' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified StaticMeshActor_17.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.35:729][268]LogConcert: Display: Synced activity '141' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked StaticMeshActor_17.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.36:740][271]LogConcert: Display: Synced activity '142' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified StaticMeshActor_17.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.38:088][275]LogConcert: Display: Synced activity '143' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked StaticMeshActor_17.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.38:421][276]LogConcert: Display: Synced activity '144' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified StaticMeshActor_17.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.38:422][276]LogConcert: Display: Synced activity '145' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked StaticMeshActor_17.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.39:100][278]LogConcert: Display: Synced activity '146' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked StaticMeshActor_17.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.41:110][284]LogConcert: Display: Synced activity '147' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified StaticMeshActor_17.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.41:111][284]LogConcert: Display: Synced activity '148' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked StaticMeshActor_17.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.14.46:142][299]LogConcert: Display: Synced activity '149' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked StaticMeshActor_18.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default, plus 1 other resource.
+[2022.05.16-03.14.47:482][303]LogConcert: Display: Synced activity '150' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice created StaticMeshActor_18 in /Game/StarterContent/Maps/Minimal_Default, plus 1 other action.
+[2022.05.16-03.14.47:483][303]LogConcert: Display: Synced activity '151' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked StaticMeshActor_19.StaticMeshComponent0 in /Game/StarterContent/Maps/Minimal_Default, plus 1 other resource.
+[2022.05.16-03.15.31:677][435]LogConcert: Display: Synced activity '152' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice saved package /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.15.31:681][435]LightingResults: New page: Lighting Build
+[2022.05.16-03.15.31:683][435]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.16-03.15.31:683][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-03.15.31:683][435]MapCheck: New page: Map Check
+[2022.05.16-03.15.31:683][435]LightingResults: New page: Lighting Build
+[2022.05.16-03.15.31:691][435]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.16-03.15.31:693][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.05.16-03.15.31:697][435]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.16-03.15.31:697][435]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.16-03.15.31:697][435]LogAIModule: Creating AISystem for world Untitled
+[2022.05.16-03.15.31:698][435]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.16-03.15.31:711][435]LoadErrors: New page: New Map
+[2022.05.16-03.15.31:713][435]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/StarterContent/Maps/Minimal_Default.Minimal_Default) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2022.05.16-03.15.31:731][435]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.05.16-03.15.31:731][435]Cmd: MAP LOAD FILE="../../../../../UE Project/MyProject2/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.16-03.15.31:732][435]LightingResults: New page: Lighting Build
+[2022.05.16-03.15.31:732][435]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2022.05.16-03.15.31:733][435]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.16-03.15.31:733][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-03.15.31:733][435]MapCheck: New page: Map Check
+[2022.05.16-03.15.31:733][435]LightingResults: New page: Lighting Build
+[2022.05.16-03.15.31:741][435]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.16-03.15.31:752][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.05.16-03.15.31:755][435]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.16-03.15.31:755][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-03.15.31:764][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.05.16-03.15.31:772][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.05.16-03.15.31:789][435]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.05.16-03.15.31:789][435]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.16-03.15.31:789][435]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.16-03.15.31:789][435]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.16-03.15.31:793][435]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.16-03.15.31:822][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.05.16-03.15.31:825][435]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.16-03.15.31:826][435]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.113ms to complete.
+[2022.05.16-03.15.31:826][435]LogFileHelpers: Loading map 'Minimal_Default' took 0.094
+[2022.05.16-03.15.32:681][438]LogConcert: Display: Synced activity '153' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice saved package /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.15.32:684][438]LightingResults: New page: Lighting Build
+[2022.05.16-03.15.32:686][438]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.16-03.15.32:686][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-03.15.32:686][438]MapCheck: New page: Map Check
+[2022.05.16-03.15.32:686][438]LightingResults: New page: Lighting Build
+[2022.05.16-03.15.32:694][438]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.16-03.15.32:696][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.05.16-03.15.32:697][438]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.16-03.15.32:697][438]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.16-03.15.32:698][438]LogAIModule: Creating AISystem for world Untitled
+[2022.05.16-03.15.32:698][438]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.16-03.15.32:711][438]LoadErrors: New page: New Map
+[2022.05.16-03.15.32:712][438]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/StarterContent/Maps/Minimal_Default.Minimal_Default) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2022.05.16-03.15.32:731][438]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.05.16-03.15.32:731][438]Cmd: MAP LOAD FILE="../../../../../UE Project/MyProject2/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.16-03.15.32:731][438]LightingResults: New page: Lighting Build
+[2022.05.16-03.15.32:731][438]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2022.05.16-03.15.32:732][438]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.16-03.15.32:732][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-03.15.32:732][438]MapCheck: New page: Map Check
+[2022.05.16-03.15.32:732][438]LightingResults: New page: Lighting Build
+[2022.05.16-03.15.32:739][438]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.16-03.15.32:748][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.05.16-03.15.32:751][438]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.16-03.15.32:751][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-03.15.32:760][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.05.16-03.15.32:768][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.05.16-03.15.32:785][438]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.05.16-03.15.32:785][438]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.16-03.15.32:785][438]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.16-03.15.32:786][438]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.16-03.15.32:789][438]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.16-03.15.32:818][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.05.16-03.15.32:822][438]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.16-03.15.32:822][438]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.123ms to complete.
+[2022.05.16-03.15.32:822][438]LogFileHelpers: Loading map 'Minimal_Default' took 0.091
+[2022.05.16-03.15.33:025][439]LogConcert: Display: Synced activity '154' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice saved package /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.15.33:026][439]LogConcert: Display: Synced activity '155' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice saved package /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.15.33:053][439]LightingResults: New page: Lighting Build
+[2022.05.16-03.15.33:055][439]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.16-03.15.33:055][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-03.15.33:055][439]MapCheck: New page: Map Check
+[2022.05.16-03.15.33:055][439]LightingResults: New page: Lighting Build
+[2022.05.16-03.15.33:063][439]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.16-03.15.33:065][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.05.16-03.15.33:066][439]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.16-03.15.33:067][439]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.16-03.15.33:067][439]LogAIModule: Creating AISystem for world Untitled
+[2022.05.16-03.15.33:068][439]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.16-03.15.33:080][439]LoadErrors: New page: New Map
+[2022.05.16-03.15.33:082][439]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/StarterContent/Maps/Minimal_Default.Minimal_Default) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2022.05.16-03.15.33:101][439]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.05.16-03.15.33:101][439]Cmd: MAP LOAD FILE="../../../../../UE Project/MyProject2/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.16-03.15.33:101][439]LightingResults: New page: Lighting Build
+[2022.05.16-03.15.33:101][439]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2022.05.16-03.15.33:102][439]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.16-03.15.33:102][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-03.15.33:102][439]MapCheck: New page: Map Check
+[2022.05.16-03.15.33:102][439]LightingResults: New page: Lighting Build
+[2022.05.16-03.15.33:110][439]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.16-03.15.33:119][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.05.16-03.15.33:122][439]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.16-03.15.33:122][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-03.15.33:132][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.05.16-03.15.33:140][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.05.16-03.15.33:158][439]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.05.16-03.15.33:158][439]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.16-03.15.33:158][439]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.16-03.15.33:158][439]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.16-03.15.33:162][439]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.16-03.15.33:195][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.05.16-03.15.33:198][439]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.16-03.15.33:199][439]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2022.05.16-03.15.33:199][439]LogFileHelpers: Loading map 'Minimal_Default' took 0.098
+[2022.05.16-03.15.33:357][440]LogConcert: Display: Synced activity '156' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice saved package /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.15.33:358][440]LogConcert: Display: Synced activity '157' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice saved package /Game/StarterContent/Maps/Minimal_Default.
+[2022.05.16-03.15.33:385][440]LightingResults: New page: Lighting Build
+[2022.05.16-03.15.33:388][440]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.16-03.15.33:388][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-03.15.33:388][440]MapCheck: New page: Map Check
+[2022.05.16-03.15.33:388][440]LightingResults: New page: Lighting Build
+[2022.05.16-03.15.33:396][440]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.16-03.15.33:398][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.05.16-03.15.33:399][440]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.16-03.15.33:399][440]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.16-03.15.33:400][440]LogAIModule: Creating AISystem for world Untitled
+[2022.05.16-03.15.33:400][440]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.16-03.15.33:413][440]LoadErrors: New page: New Map
+[2022.05.16-03.15.33:415][440]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/StarterContent/Maps/Minimal_Default.Minimal_Default) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2022.05.16-03.15.33:434][440]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.05.16-03.15.33:434][440]Cmd: MAP LOAD FILE="../../../../../UE Project/MyProject2/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.16-03.15.33:434][440]LightingResults: New page: Lighting Build
+[2022.05.16-03.15.33:434][440]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2022.05.16-03.15.33:435][440]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.16-03.15.33:435][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-03.15.33:435][440]MapCheck: New page: Map Check
+[2022.05.16-03.15.33:435][440]LightingResults: New page: Lighting Build
+[2022.05.16-03.15.33:442][440]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.16-03.15.33:451][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.05.16-03.15.33:454][440]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.05.16-03.15.33:454][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-03.15.33:464][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.05.16-03.15.33:472][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.05.16-03.15.33:489][440]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.05.16-03.15.33:489][440]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.16-03.15.33:489][440]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.16-03.15.33:490][440]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.05.16-03.15.33:493][440]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.16-03.15.33:522][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.05.16-03.15.33:525][440]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.16-03.15.33:526][440]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.108ms to complete.
+[2022.05.16-03.15.33:526][440]LogFileHelpers: Loading map 'Minimal_Default' took 0.092
+[2022.05.16-03.16.06:492][539]LogConcert: Display: Synced activity '158' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice added package /Game/StarterContent/Maps/MyNewMap.
+[2022.05.16-03.16.06:494][539]LogConcert: Display: Synced activity '159' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice added package /Game/StarterContent/Maps/MyNewMap.
+[2022.05.16-03.16.14:863][564]LogConcert: Display: Synced activity '160' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice saved package /Game/StarterContent/Maps/MyNewMap.
+[2022.05.16-03.16.24:918][594]LogConcert: Display: Synced activity '161' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice deleted Table in /Game/StarterContent/Maps/MyNewMap.
+[2022.05.16-03.16.28:270][604]LogConcert: Display: Synced activity '162' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified StaticMeshActor_17.StaticMeshComponent0 in /Game/StarterContent/Maps/MyNewMap, plus 1 other action.
+[2022.05.16-03.16.30:959][612]LogConcert: Display: Synced activity '163' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice deleted StaticMeshActor_16 in /Game/StarterContent/Maps/MyNewMap, plus 3 other actions.
+[2022.05.16-03.16.35:653][626]LogConcert: Display: Synced activity '164' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked Table_13.StaticMeshComponent0 in /Game/StarterContent/Maps/MyNewMap.
+[2022.05.16-03.16.37:329][631]LogConcert: Display: Synced activity '165' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified Table_13.StaticMeshComponent0 in /Game/StarterContent/Maps/MyNewMap.
+[2022.05.16-03.16.37:330][631]LogConcert: Display: Synced activity '166' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked Table_13.StaticMeshComponent0 in /Game/StarterContent/Maps/MyNewMap.
+[2022.05.16-03.16.42:021][645]LogConcert: Display: Synced activity '167' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked Table_13.StaticMeshComponent0 in /Game/StarterContent/Maps/MyNewMap.
+[2022.05.16-03.16.43:029][648]LogConcert: Display: Synced activity '168' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified Table_13.StaticMeshComponent0 in /Game/StarterContent/Maps/MyNewMap.
+[2022.05.16-03.16.43:030][648]LogConcert: Display: Synced activity '169' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked Table_13.StaticMeshComponent0 in /Game/StarterContent/Maps/MyNewMap.
+[2022.05.16-03.16.45:041][654]LogConcert: Display: Synced activity '170' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice locked Table_13.StaticMeshComponent0 in /Game/StarterContent/Maps/MyNewMap.
+[2022.05.16-03.16.46:382][658]LogConcert: Display: Synced activity '171' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice modified Table_13.StaticMeshComponent0 in /Game/StarterContent/Maps/MyNewMap.
+[2022.05.16-03.16.46:383][658]LogConcert: Display: Synced activity '172' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice unlocked Table_13.StaticMeshComponent0 in /Game/StarterContent/Maps/MyNewMap.
+[2022.05.16-03.16.49:396][667]LogConcert: Display: Synced activity '173' produced by endpoint 'B8D53DDD40B30393B5FA6E988AB75DA8': nice saved package /Game/StarterContent/Maps/MyNewMap.
+[2022.05.16-03.17.50:000][848]LogDerivedDataCache: C:/Users/Mike/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.012 and deleted 0 file(s) with total size 0 MiB.
+[2022.05.16-04.17.49:929][635]LogDerivedDataCache: C:/Users/Mike/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.012 and deleted 0 file(s) with total size 0 MiB.
